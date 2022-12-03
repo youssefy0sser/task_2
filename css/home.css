@@ -1,0 +1,49 @@
+body {
+    background-image: url("../img/th\ \(1\).jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    overflow: hidden;
+    background-position:center;
+    
+  }
+  .screen {
+    background-color: black;
+    opacity: 0.6;
+  }
+  .block {
+    width: auto;
+    height: auto;
+    background-position: center;
+  }
+  .image {
+    text-align: center;
+    padding-top: 270px;
+  }
+  .image img {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  #h1 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 15px;
+    color: white;
+  }
+  p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+  }
+  .button {
+    text-align: center;
+    padding-bottom: 250px;
+  }
+  .button button {
+    border-radius: 30%;
+    width: 100px;
+    height: 50px;
+    font-weight: bold;
+  }
